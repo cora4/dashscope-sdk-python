@@ -1,6 +1,6 @@
 # DashScope Python SDK
 
-The DashScope Python SDK provides a comprehensive interface to [Alibaba Cloud Model Studio (Bailian)](https://www.alibabacloud.com/help/en/model-studio/) APIs, covering text generation, multi-modal understanding, embeddings, reranking, image/video generation, speech synthesis & recognition, and more.
+The DashScope Python SDK provides a comprehensive interface to Alibaba Cloud Model Studio (Bailian) APIs, covering text generation, multi-modal understanding, embeddings, reranking, image/video generation, speech synthesis & recognition, and more.
 
 ## Installation
 To install the DashScope Python SDK, simply run:
@@ -42,7 +42,7 @@ else:
 
 ## API Key Authentication
 
-The SDK uses API key for authentication. Please refer to [official documentation for alibabacloud china](https://www.alibabacloud.com/help/en/model-studio/) and [official documentation for alibabacloud international](https://www.alibabacloud.com/help/en/model-studio/) regarding how to obtain your api-key.
+The SDK uses API key for authentication. Please refer to official documentation for alibaba china (https://www.alibabacloud.com/help/en/model-studio/) and official documentation for alibaba international (https://www.alibabacloud.com/help/en/model-studio/) regarding how to obtain your api-key.
 
 ### Using the API Key
 
